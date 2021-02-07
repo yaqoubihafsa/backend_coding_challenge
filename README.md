@@ -3,6 +3,14 @@ This project is about creating a RestAPI using the technology of my choice, Djan
 
 ## Setup the environment
 So to test this project on your own, you have :
+- I couldn't upload the venv here (it has a size that Github can't handle), but fortunately you can create one, you can visit the link below for more information : 
+```bash
+https://realpython.com/lessons/creating-virtual-environment/
+```
+The libraries you will need for this project are : django, requests, django-restframework, pymysql using the command : 
+```bash 
+pip install <lib_name>
+``` 
 - to activate the virtual environment : open the command line on your computer and go inside this folder (backend_coding_challenge) then type : 
 ```bash
 env\Scripts\activate.bat
